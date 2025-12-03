@@ -1,0 +1,92 @@
+光:Hikari
+对立:Tairitsu
+红:Kou
+萨菲亚:Sapphire
+忘却:Lethe
+对立（Axium）:Tairitsu (Axium)
+对立（Grievous Lady）:Tairitsu (Grievous Lady)
+星:Stella
+光 & 菲希卡:Hikari & Fisica
+依莉丝:Ilith
+爱托:Eto
+露娜:Luna
+调:Shirabe
+光（Zero）:Hikari (Zero)
+光（Fracture）:Hikari (Fracture)
+光（夏日）:Hikari (Summer)
+对立（夏日）:Tairitsu (Summer)
+对立 & 托凛:Tairitsu & Trin
+彩梦:Ayu
+爱托 & 露娜（冬日）:Eto & Luna (Winter)
+柚梅:Yume
+光 & 赛依娜:Hikari & Seine
+咲弥:Saya
+对立 & 中二企鹅（Grievous Lady）:Tairitsu (Grievous Lady) & Chuni Penguin
+中二企鹅:Chuni Penguin
+榛名:Haruna Mishima
+诺诺:Nono Shibusawa
+潘多拉涅墨西斯（MTA-XXX）:Pandora Nemesis (MTA-XXX)
+轩辕十四（MDA-21）:Regulus (MDA-21)
+群愿:Kanae
+光（Fantasia）:Hikari (Fantasia)
+对立（Sonata）:Tairitsu (Sonata)
+兮娅:Sia
+DORO*C:DORO*C
+对立（Tempest）:Tairitsu (Tempest)
+布丽兰特:Brillante (E/S Primera)
+依莉丝（夏日）:Ilith (Summer)
+咲弥（Etude）:Saya (Etude)
+爱丽丝 & 坦尼尔:Alice & Tenniel
+露娜 & 美亚:Luna & Mia
+阿莱乌斯:Areus
+希尔:Seele Haze
+伊莎贝尔:Isabelle Yagrush
+迷尔:Mir
+拉格兰:Lagrange
+奈美:Nami
+咲弥 & 伊丽莎白:Saya & Elizabeth
+莉莉:Lily
+群愿（盛夏）:Kanae (Midsummer)
+白姬:Shirahime
+爱丽丝 & 坦尼尔（Minuet）:Alice & Tenniel (Minuet)
+对立（Elegy）:Tairitsu (Elegy)
+玛莉嘉:Marija
+维塔:Vita
+凛可:Linka
+光（Fatalis）:Hikari (Fatalis)
+光 & 对立（Reunion）:Hikari & Tairitsu (Reunion)
+咲姬:Saki
+刹那:Setsuna
+天音:Amane
+红（冬日）:Kou (Winter)
+忘却（Apophenia）:Lethe (Apophenia)
+拉格兰（Aria）:Lagrange (Aria)
+夏玛（大～宇～宙）:Shama (UNiVERSE)
+咪璐库（大～宇～宙）:Milk (UNiVERSE)
+紫黑:Shikoku
+百合咲美香:Mika Yurisaki
+密特拉·泰尔塞拉:Mithra Tercera
+不来方永爱:Toa Kozukata
+奈美（暮光）:Nami (Twilight)
+Ilith & Ivy:Ilith & Ivy
+Hikari & Vanessa:Hikari & Vanessa
+摩耶:Maya
+洞烛（至高：第八探索者）:Insight (Ascendant - 8th Seeker)
+露恩:Luin
+维塔（Cadenza）:Vita (Cadenza)
+Ai酱:Ai-chan
+露娜 & 伊洛:Luna & Ilot
+爱托 & 荷珀:Eto & Hoppe
+哀寂（至高：第六探索者）:Compassion (Ascendant - 6th Seeker)
+千夏:Chinatsu
+纺:Tsumugi
+奈伊:Nai
+赛润妮·雪儿（MIR-203）:Selene Sheryl (MIR-203)
+莎露朵:Salt
+埃希德:Acid
+光 & 克莱尔:Hikari & El Clear
+奈美 & 希依（暮光）:Nami (Twilight) & Sui
+光 & 赛润妮·雪儿（Fracture & MIR-203）:Hikari (Fracture) & Selene Sheryl (MIR-203)
+对立 & 菲尔:Tairitsu & El Fail
+野乃香:Nonoka
+维塔（Wanderer）:Vita (Wanderer)

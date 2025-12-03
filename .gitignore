@@ -1,0 +1,9 @@
+# 构建产生的文件
+build/
+dist/
+*.spec
+
+# 测试文件
+test.py
+
+*.exe
