@@ -1,4 +1,6 @@
-直接跑.py或用pyinstaller生成.exe在dist/文件夹内:
+从《音游开字母》衍生过来的《开字符》，数据都在data文件夹下，可自定义或组合数据。目前的数据有Arcaea的曲名、曲师名、画师名、搭档名、包名、谱师名，还有数学公式，还有瞎几把搞的几个。
+
+直接跑.py或用pyinstaller生成.exe在dist文件夹内：
 
 ```bash
 pip install pyinstaller
