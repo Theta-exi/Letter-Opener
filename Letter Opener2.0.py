@@ -149,7 +149,8 @@ if __name__ == "__main__":
         rul = rul.replace("& ","")
         try:
             with open(rul, "r", encoding="utf-8") as f:
-                alternate_Strings = [line.strip() for line in f.readlines()]
+                alternate_Strings = [line.strip() for line in f.readlines() 
+                                     if line[0] != "#" and line.strip() != ""]
         except FileNotFoundError:
             print("文件不存在,请重试")
             continue
