@@ -1,56 +1,72 @@
+# 运算律
 a∘b=b∘a
 (a∘b)∘c=a∘(b∘c)
+# 幺元
 a+0=a
 a×1=a
-a×0=0
+a^1=a
+# 分配律
 a×(b+c)=a×b+a×c
 a^(b+c)=a^b×a^c
+# 逆运算
 a-b=c⇔a=b+c
 a/b=c⇔a=b×c
+log_a(b)=c⇔b=a^c
+# 平方差公式及其推广
 (a-b)(a+b)=a^2-b^2
 Π_(k=0)^(n-1) (a-e^(2kπi/n) b)=a^n-b^n
+# 完全平方公式及其推广
 (a+b)^2=a^2+2ab+b^2
-ax^2+bx+c=0⇒x=(-b±√(b^2-4ac))/(2a)
 (a+b)^n=Σ_(k=0)^n C(n,k)a^(n-k) b^k
+# 特殊值
+a×0=0
 a^0=1
-a^1=a
-log_a(b)=c⇔b=a^c
+ax^2+bx+c=0⇒x=(-b±√(b^2-4ac))/(2a)
+# 对数
 log(xy)=log(x)+log(y)
 log(x^p)=p log(x)
 ln(x)=log_e(x)
 log_a(b)=ln(b)/ln(a)
 log_a(a)=1
 log_a(1)=0
+# 三角函数
 tan(x)=sin(x)/cos(x)
 cot(x)=cos(x)/sin(x)
 sec(x)=1/cos(x)
 csc(x)=1/sin(x)
+# 平移性质
 sin(x+π/2)=cos(x)
 cos(x+π/2)=-sin(x)
 tan(x+π/2)=-cot(x)
 tan(x+π)=tan(x)
+# 恒等式
 sin^2(x)+cos^2(x)=1
 tan^2(x)+1=sec^2(x)
 cot^2(x)+1=csc^2(x)
+# 半/倍角公式
 sin^2(x/2)=(1-cos(x))/2
 cos^2(x/2)=(1+cos(x))/2
 tan(x/2)=(1-cos(x))/sin(x)=sin(x)/(1+cos(x))
-sin(a+b)=sin(a)cos(b)+cos(a)sin(b)
-cos(a+b)=cos(a)cos(b)-sin(a)sin(b)
-tan(a+b)=(tan(a)+tan(b))/(1-tan(a)tan(b))
 sin(2x)=2sin(x)cos(x)
 cos(2x)=cos^2(x)-sin^2(x)
 tan(2x)=2tan(x)/(1-tan^2(x))
-sin(a)cos(b)=(sin(a+b)+sin(a-b))/2
-cos(a)cos(b)=(cos(a+b)+cos(a-b))/2
-sin(a)sin(b)=(cos(a-b)-cos(a+b))/2
+cos(nx)=Σ_(0≤2k≤n) (-1)^k C(n,2k) cos^(n-2k)(x) sin^(2k)(x)
+sin(nx)=Σ_(0≤2k+1≤n) (-1)^k C(n,2k+1) cos^(n-(2k+1))(x) sin^(2k+1)(x)
+# 和角公式
+sin(a+b)=sin(a)cos(b)+cos(a)sin(b)
+cos(a+b)=cos(a)cos(b)-sin(a)sin(b)
+tan(a+b)=(tan(a)+tan(b))/(1-tan(a)tan(b))
+# 和与积的互化
 sin(a)+sin(b)=2sin((a+b)/2)cos((a-b)/2)
 cos(a)+cos(b)=2cos((a+b)/2)cos((a-b)/2)
 cos(a)-cos(b)=-2sin((a+b)/2)sin((a-b)/2)
+sin(a)cos(b)=(sin(a+b)+sin(a-b))/2
+cos(a)cos(b)=(cos(a+b)+cos(a-b))/2
+sin(a)sin(b)=(cos(a-b)-cos(a+b))/2
+# 辅助角公式
 a sin(x)+b cos(x)=√(a^2+b^2)sin(x+θ), θ=arg(a+bi)
+# 复数……
 e^(ix)=cos(x)+i sin(x)
-cos(nx)=Σ_(0≤2k≤n) (-1)^k C(n,2k) cos^(n-2k)(x) sin^(2k)(x)
-sin(nx)=Σ_(0≤2k+1≤n) (-1)^k C(n,2k+1) cos^(n-(2k+1))(x) sin^(2k+1)(x)
 sin(x)=(e^(ix)-e^(-ix))/(2i)
 cos(x)=(e^(ix)+e^(-ix))/2
 sinh(x)=(e^x-e^(-x))/2
