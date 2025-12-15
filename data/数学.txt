@@ -66,6 +66,8 @@ sin(a)sin(b)=(cos(a-b)-cos(a+b))/2
 # 辅助角公式
 a sin(x)+b cos(x)=√(a^2+b^2)sin(x+θ), θ=arg(a+bi)
 # 复数……
+ 
+
 e^(ix)=cos(x)+i sin(x)
 sin(x)=(e^(ix)-e^(-ix))/(2i)
 cos(x)=(e^(ix)+e^(-ix))/2
