@@ -4,6 +4,6 @@ dist/
 *.spec
 
 # 测试文件
-test.py
+test*.py
 
 *.exe
