@@ -2,8 +2,11 @@
 build/
 dist/
 *.spec
+__pycache__/
 
 # 测试文件
 test*.py
+
+*.bat
 
 *.exe
